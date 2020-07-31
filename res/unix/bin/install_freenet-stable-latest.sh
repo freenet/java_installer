@@ -11,3 +11,4 @@ fi
 
 rm -f freenet.jar
 ln -sf freenet-stable-latest.jar freenet.jar
+
