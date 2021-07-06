@@ -26,52 +26,52 @@
     <!-- The strings for the 'official' IzPack plugins -->
     <str id="HelloPanel.welcome1" txt="Velkommen til installasjon av "/>
     <str id="HelloPanel.welcome2" txt=" !"/>
-    <str id="HelloPanel.authors" txt="Forfatteren til denne applikasjonen er : "/>
-    <str id="HelloPanel.url" txt="Applikasjonens hjemmeside er : "/>
+    <str id="HelloPanel.authors" txt="Dette programmet er laget av : "/>
+    <str id="HelloPanel.url" txt="Programmets hjemmeside : "/>
     
-    <str id="LicencePanel.info" txt="Les vennligst gjennom følgende lisensavtale:"/>
+    <str id="LicencePanel.info" txt="Les følgende lisensavtale :"/>
     <str id="LicencePanel.agree" txt="Jeg aksepterer vilkårene i lisensavtalen."/>
     <str id="LicencePanel.notagree" txt="Jeg aksepterer IKKE vilkårene i lisensavtalen."/>
     <str id="LicencePanel.yes" txt="Ja"/>
     <str id="LicencePanel.no" txt="Nei"/>
     
-    <str id="InfoPanel.info" txt="Vennligst les følgende informasjon :"/>
+    <str id="InfoPanel.info" txt="Les følgende informasjon :"/>
     
     <str id="TargetPanel.info" txt="Velg mappen du vil installere i :"/>
     <str id="TargetPanel.browse" txt="Bla gjennom ..."/>
     <str id="TargetPanel.warn" 
          txt="Katalogen eksisterer allerede ! Er du sikker på du vil installere og eventuelt overskrive eksisterende filer?"/>
     <str id="TargetPanel.empty_target"
-         txt="Du har ikke angitt et målkatalog! Er dette korrekt?"/>
+         txt="Du har ikke angitt en målkatalog! Er dette korrekt?"/>
 		<str id="TargetPanel.createdir" txt="Målkatalogen vil bli opprettet :" />
     
-    <str id="PacksPanel.info" txt="Velg de pakkene du vil installere :"/>
+    <str id="PacksPanel.info" txt="Velg pakker for installasjon :"/>
     <str id="PacksPanel.tip" txt="OBS: Grå pakker må installeres."/>
-    <str id="PacksPanel.space" txt="Total plass som kreves: "/>
+    <str id="PacksPanel.space" txt="Påkrevd plass: "/>
     <str id="PacksPanel.description" txt="Beskrivelse"/>
     
     <str id="InstallPanel.info" txt="Trykk på 'Installer !' for å begynne installasjonsprosessen"/>
     <str id="InstallPanel.install" txt="Installer !"/>
-    <str id="InstallPanel.tip" txt="Pakke installasjonsprosess :"/>
+    <str id="InstallPanel.tip" txt="Framdriftsindikator for pakkeinstallasjon :"/>
     <str id="InstallPanel.begin" txt="[Ingenting]"/>
     <str id="InstallPanel.finished" txt="[Ferdig]"/>
     <str id="InstallPanel.progress" txt="Total installasjonsprosess:"/>
     <str id="InstallPanel.overwrite.title" txt="Filen eksisterer allerede"/>
     <str id="InstallPanel.overwrite.question" txt="Den følgende filen eksisterer allerede. Skal den overskrives?"/>
     
-    <str id="FinishPanel.success" txt="Installasjonen er gjennomført uten feil."/>
+    <str id="FinishPanel.success" txt="Installasjon gjennomført uten feil."/>
     <str id="FinishPanel.done" txt="Ferdig"/>
     <str id="FinishPanel.fail" txt="Installationen mislyktes!"/>
     <str id="FinishPanel.uninst.info" txt="Et avinstalleringsprogram er oprettet i:"/>
-    <str id="FinishPanel.auto" txt="Generer et automatisk installasjonsskript"/>
+    <str id="FinishPanel.auto" txt="Generer automatisk installasjonsskript"/>
     <str id="FinishPanel.auto.tip"
          txt="Bruk dette skriptet til å gjenta installasjonen på andre datamaskiner."/>
     
-    <str id="ImgPacksPanel.packs" txt="Følgende pakker er tilgjengelig :"/>
-    <str id="ImgPacksPanel.snap" txt="Pakke øyeblikksbilde  :"/>
+    <str id="ImgPacksPanel.packs" txt="Følgende pakker tilgjengelige :"/>
+    <str id="ImgPacksPanel.snap" txt="Øyeblikksbilde for pakke  :"/>
     <str id="ImgPacksPanel.checkbox" txt=" Installer denne pakken"/>
 
-    <str id="ShortcutPanel.regular.list" txt="Velg et programgruppe som snarveien skal plasseres i:"/>
+    <str id="ShortcutPanel.regular.list" txt="Velg programgruppe snarveien skal plasseres i:"/>
     <str id="ShortcutPanel.regular.default" txt="Nullstill"/>
     <str id="ShortcutPanel.regular.desktop" txt="Opprett snarvei på skrivebordet"/>
     <str id="ShortcutPanel.regular.create" txt="Opprett snarvei"/>
@@ -79,7 +79,7 @@
     <str id="ShortcutPanel.regular.currentUser" txt="Nåværende bruker"/>
     <str id="ShortcutPanel.regular.allUsers" txt="Alle brukere"/>
 
-    <str id="ShortcutPanel.alternate.apology" txt="Vi beklager men IzPack støtter ikke opprettelse av snarvei på operativsystemet ditt. For å opprette en snarvei, les vennligst gjennom ditt operativsystems brukermanual."/>
+    <str id="ShortcutPanel.alternate.apology" txt="Vi beklager, men IzPack støtter ikke opprettelse av snarvei på ditt operativsystemet. For å opprette en snarvei, les vennligst gjennom ditt operativsystems brukermanual."/>
     <str id="ShortcutPanel.alternate.targetsLabel" txt="Følgende er en målliste, som produsenten av applikasjonen ønsker at du skal ha tilgang til."/>
     <str id="ShortcutPanel.alternate.textFileExplanation" txt="Du kan lagre detaljert informasjon om målene i applikasjonen i en tekstfil til senere gjennomsyn."/>
     <str id="ShortcutPanel.alternate.saveButton" txt="Lagre tekstfil"/>
@@ -91,21 +91,21 @@
     <str id="ShortcutPanel.textFile.description"  txt="Beskrivelse        : "/>
     <str id="ShortcutPanel.textFile.target"       txt="Snarveiens mål     : "/>
     <str id="ShortcutPanel.textFile.command"      txt="Kommandolinje      : "/>
-    <str id="ShortcutPanel.textFile.iconName"     txt="Ikon fil           : "/>
-    <str id="ShortcutPanel.textFile.iconIndex"    txt="Ikon indeks        : "/>
+    <str id="ShortcutPanel.textFile.iconName"     txt="Ikon-fil           : "/>
+    <str id="ShortcutPanel.textFile.iconIndex"    txt="Ikon-indeks        : "/>
     <str id="ShortcutPanel.textFile.work"         txt="Arbeidskatalog     : "/>
 
     <str id="ShortcutPanel.location.desktop"      txt="Skrivebord"/>
-    <str id="ShortcutPanel.location.applications" txt="Program Meny"/>
-    <str id="ShortcutPanel.location.startMenu"    txt="Start Meny"/>
-    <str id="ShortcutPanel.location.startup"      txt="Start- Gruppe"/>
+    <str id="ShortcutPanel.location.applications" txt="Programmeny"/>
+    <str id="ShortcutPanel.location.startMenu"    txt="Startmeny"/>
+    <str id="ShortcutPanel.location.startup"      txt="Start-gruppe"/>
 
-    <str id="UserInputPanel.error.caption"        txt="Input Problem"/>
+    <str id="UserInputPanel.error.caption"        txt="Inndata-problem"/>
     <str id="UserInputPanel.search.autodetect"    txt="Automatisk gjenkjenelse"/>
 
     <!-- more descriptive error message would be cool, like specifying what file we looked for -->
-    <str id="UserInputPanel.search.autodetect.failed.message"    txt="Automatisk gjenkjennelse mislyktes."/>
-    <str id="UserInputPanel.search.autodetect.failed.caption"    txt="Automatisk gjenkjennelse mislyktes."/>
+    <str id="UserInputPanel.search.autodetect.failed.message"    txt="Automatisk gjenkjenning mislyktes."/>
+    <str id="UserInputPanel.search.autodetect.failed.caption"    txt="Automatisk gjenkjenning mislyktes."/>
     <str id="UserInputPanel.search.autodetect.tooltip"           txt="Kontroller filen eller katalogen beskrevet ovenfor."/>
     <str id="UserInputPanel.search.location"           txt="Tast inn plasseringen {0}."/>
     <str id="UserInputPanel.search.location.checkedfile" txt="Undersøker om {0} eksisterer."/>
@@ -114,24 +114,24 @@
     <str id="UserInputPanel.search.wrongselection.caption"   txt="Ugyldig valg."/>
 
     <str id="CompilePanel.heading" txt="Kompilering" />
-    <str id="CompilePanel.tip" txt="Kompileringens fremskritt:" />
+    <str id="CompilePanel.tip" txt="Framdriftsindikator for kompileringsprosess:" />
     <str id="CompilePanel.browse" txt="Bla gjennom..." />
     <str id="CompilePanel.browse.approve" txt="Bruk som kompilator" />
     <str id="CompilePanel.start" txt="Start" />
     <str id="CompilePanel.progress.initial" txt="[Trykk på start knappen]" />
     <str id="CompilePanel.progress.finished" txt="[Ferdig]" />
-    <str id="CompilePanel.progress.overall" txt="Total kompilasjonfremskritt:" />
+    <str id="CompilePanel.progress.overall" txt="Total kompilasjonfremdrift:" />
     <str id="CompilePanel.error" txt="Kompilasjon mislyktes" />
-    <str id="CompilePanel.error.reconfigure" txt="Konfigurer på nytt" />
+    <str id="CompilePanel.error.reconfigure" txt="Sett opp på nytt" />
     <str id="CompilePanel.error.ignore" txt="Ignorer" />
     <str id="CompilePanel.error.abort" txt="Avbryt" />
-    <str id="CompilePanel.error.seebelow" txt="Se nedenfor for den mislykkede kommandoen og dens utskrift." />
-    <str id="CompilePanel.error.nofiles" txt="Feil mens skanning etter filer til kompilering." />
+    <str id="CompilePanel.error.seebelow" txt="Se nedenfor for den mislykkede kommandoen og utskrift fra den." />
+    <str id="CompilePanel.error.nofiles" txt="Feil under skanning etter filer til kompilering." />
     <str id="CompilePanel.error.compilernotfound" txt="Kompilatoren kunne ikke kjøre." />
     <str id="CompilePanel.error.invalidarguments" txt="Kompilatoren kjenner ikke argumentene du forsøker å gi den." />
     <str id="CompilePanel.error.noclassfile" txt="Kompilatoren produserte IKKE en klassefil for kildefilen " />
-    <str id="CompilePanel.choose_compiler" txt="Kompilatoren som skal benyttes:" />
-    <str id="CompilePanel.additional_arguments" txt="Ekstra kompilator argumenter:" />
+    <str id="CompilePanel.choose_compiler" txt="Kompilator som skal benyttes:" />
+    <str id="CompilePanel.additional_arguments" txt="Ekstra kompilator-argumenter:" />
 
     <str id="ProcessPanel.heading" txt="Behandler" />
 
